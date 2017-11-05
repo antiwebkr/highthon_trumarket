@@ -5,4 +5,4 @@
 
 ### Test environment
 
-* `Node.js` v9.0.0, `mongodb` 3.2.11
+* `Node.js` v9.0.0, `mongodb` v3.2.11
