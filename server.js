@@ -8,7 +8,7 @@ const model_loader = require("./model/model_loader");
 const facebook = require("./lib/facebook");
 const passport = require("passport");
 const token = require("./lib/token");
-const 	path = require("path");
+const path = require("path");
 
 app.use(bodyparser.urlencoded({extended: false}));
 app.use(bodyparser.json());
